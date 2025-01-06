@@ -51,10 +51,6 @@ After training, the agent should be able to efficiently navigate the grid and co
 
 Feel free to fork this repository and contribute by submitting pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📧 Contact
-
-If you have any questions or suggestions, please contact me at [your-email@example.com](mailto:your-email@example.com).
-
 Happy coding! 🎉
 ```
 
